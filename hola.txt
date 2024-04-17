@@ -1,0 +1,4 @@
+npm init
+npm install @react-spring/web@9.5.5
+client : npm run start:frontend
+server: npm run start:backend
